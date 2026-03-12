@@ -2,7 +2,7 @@
 This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. The goal is to uncover trends related to vehicle types, locations, and time patterns that could help inform prevention strategies.
 
 My tool for analysis is MS SQL Server
-## Project Topic
+# Project Topic
 Analysis of Motor Vehicle Theft
 ## Project Overview
 This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. Stolen vehicle data from the New Zealand police department's vehicle of interest database containing 6 months of data was collected to be used for analysis where the results will inform **evidence-based strategies for vehicle theft prevention, resource allocation for law enforcement, improved monitoring of high-risk locations, vehicle types,** and **time patterns associated with theft incidents.**
