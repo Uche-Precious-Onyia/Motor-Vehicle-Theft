@@ -41,6 +41,11 @@ Investigation: Time-series Analysis
 ## Data Source
 The dataset was sourced from the New Zealand Police Department's **Vehicle of Interest database**, containing six months of stolen vehicle records.
 
+## Data Cleaning & Preparation
+- Handling missing values
+- Removing duplicates
+- Feature engineering
+
 ## Tools & Technologies
 - Microsoft Excel (Analysis and visualization)
 - Microsoft Word (Documenting proceses)
