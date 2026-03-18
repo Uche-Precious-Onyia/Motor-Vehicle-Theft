@@ -5,7 +5,7 @@ My tool for analysis is MS Excel
 ## Project Topic
 Analysis of Motor Vehicle Theft
 ## Project Overview
-This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. Stolen vehicle data from the New Zealand police department's vehicle of interest database containing 6 months of data was collected to be used for analysis where the results will inform **evidence-based strategies for vehicle theft prevention, resource allocation for law enforcement, improved monitoring of high-risk locations, vehicle types,** and **time patterns associated with theft incidents.**
+This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. Stolen vehicle data from the New Zealand police department's vehicle of interest database containing 6 months of data was collected to be used for analysis where the results will inform **evidence-based strategies for vehicle theft prevention, resource allocation for law enforcement, and improved monitoring of high-risk locations, vehicle types,** and **time patterns associated with theft incidents.**
 
 Uche Precious Onyia is the Data Analyst responsible for conducting this analysis and translating the findings into actionable insights.
 
@@ -30,15 +30,14 @@ Examine: Month trends, Weekday vs weekend, Seasonal patterns
 Investigation: Time-series Analysis
 - Do a Few Areas Account for Most Vehicle Theft?
 
-Examine: Theft concentration by area; Pareto analysis (80/20 rule))
+  Examine: Theft concentration by area; Pareto analysis (80/20 rule))
 
-Investigation: Concentration Analysis
+  Investigation: Concentration Analysis
 ## Scope
 - Vehicle price/type vs theft frequency
 - Vehicle age vs theft probability
 - Geography vs theft probability
-- Time 
-Theft patterns across vehicle segments
+- Time Theft patterns across vehicle segments
 ## Data Source
 The dataset was sourced from the New Zealand Police Department's **Vehicle of Interest database**, containing six months of stolen vehicle records.
 
