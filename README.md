@@ -1,7 +1,7 @@
-# Motor-Vehicle-Theft
+# Timing the Crime: A Data Analysis of Patterns in Motor Vehicle Theft
 This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. The goal is to uncover trends related to vehicle types, locations, and time patterns that could help inform prevention strategies.
 
-My tool for analysis is MS SQL Server
+My tool for analysis is MS Excel
 ## Project Topic
 Analysis of Motor Vehicle Theft
 ## Project Overview
@@ -11,11 +11,25 @@ Uche Precious Onyia is the Data Analyst responsible for conducting this analysis
 
 ## Objective
 The key goals of this analysis:
-- Identify trends in stolen vehicle incidents
-- Determine which vehicle types are most frequently stolen
-- Analyze geographic distribution of thefts
-- Explore temporal patterns in theft activity
+- Identify key trends in stolen vehicle incidents
+  - Determine which vehicle types are most frequently stolen
+  - Analyze geographic distribution of thefts
+  - Explore temporal patterns in theft activity
+- Provide insights that inform decision-making
 
+## Analytical Questions
+- What Makes a Car a Target? (Vehicle make and model, Vehicle age, Vehicle category (SUV, sedan, truck))
+Investigation: why certain cars stolen more often
+- When Do Car Thieves Strike? (Month trends, Weekday vs weekend, Seasonal patterns)
+Investigation: Time-series Analysis
+- Do a Few Areas Account for Most Vehicle Theft? (Theft concentration by area; Pareto analysis (80/20 rule))
+Investigation: Concentration Analysis
+## Scope
+Vehicle price vs theft frequency
+Vehicle age vs theft probability
+Geography vs theft probability
+Theft patterns across vehicle segments
 ## Data Source
 The dataset was sourced from the New Zealand Police Department's **Vehicle of Interest database**, containing six months of stolen vehicle records.
 
+## What Makes This Analysis Special?
