@@ -41,7 +41,9 @@ The dataset was sourced from the New Zealand Police Department's **Vehicle of In
 - Microsoft PowerPoint (presentation)
   
 ### Data Cleaning & Preparation
-- Handling missing values: 
+- Handling missing values:
+  - There are missing values in the Stolen_Vehicles dataset.
+  - However, the make_id in the make_details table matches the make_id in the Stolen_vehicles table. Also, the locations_id in the locations tablematches the location_id in the Stolen_vehicles table. This will allow us fill the missing values. What Excel function do I use? LookUp?
 - Removing duplicates: 
 - Feature engineering: 
 
