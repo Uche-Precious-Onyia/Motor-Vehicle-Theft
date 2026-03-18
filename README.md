@@ -34,11 +34,16 @@ Examine: Theft concentration by area; Pareto analysis (80/20 rule))
 
 Investigation: Concentration Analysis
 ## Scope
-Vehicle price vs theft frequency
-Vehicle age vs theft probability
-Geography vs theft probability
+- Vehicle price/type vs theft frequency
+- Vehicle age vs theft probability
+- Geography vs theft probability
+- Time 
 Theft patterns across vehicle segments
 ## Data Source
 The dataset was sourced from the New Zealand Police Department's **Vehicle of Interest database**, containing six months of stolen vehicle records.
 
+## Tools & Technologies
+- Microsoft Excel (Analysis and visualization)
+- Microsoft Word (Documenting proceses)
+- Microsoft PowerPoint (Presentation)
 ## What Makes This Analysis Special?
