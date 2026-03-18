@@ -41,14 +41,23 @@ The dataset was sourced from the New Zealand Police Department's **Vehicle of In
 - Microsoft PowerPoint (presentation)
   
 ### Data Cleaning & Preparation
-- Handling missing values:
-  - There are missing values in the Stolen_Vehicles dataset.
-  - However, the make_id in the make_details table matches the make_id in the Stolen_vehicles table. Also, the locations_id in the locations tablematches the location_id in the Stolen_vehicles table. This will allow us fill the missing values. What Excel function do I use? LookUp?
+- Handling missing values: There are missing values in the Stolen_Vehicles dataset. Columns with blanks are
+  - Color
+  - Vehicle description
+  - Model Year
+  - Make Id and
+  - Vehicle Type
+
+However, the make_id in the make_details table matches the make_id in the Stolen_vehicles table. Also, the locations_id in the locations tablematches the location_id in the Stolen_vehicles table. This will allow us fill the missing values. What Excel function do I use? LookUp?
 ```Excel
 
 ```
-- Removing duplicates: 
-- Feature engineering: 
+- I need to clean up the date column on the Stolen_vehicles dataset. How do I do that?
+- Adding new columns:
+  - I added a new column on the Stolen_Vehicles dataset for Region. This will help us answer the question about how the rate of crime differs for different geographical locations.
+  - I need to add new columns for make_name and make_type. This will help me answer the question of what kinds of cars are stolen the most and whether the thieves favor luxury cars over standard ones. 
+- Removing duplicates: Are there duplicates? How do I check for them? How do I resolve a duplicates issue?
+- Feature engineering: ?????
 
 ### Data Analysis and Visualization
 This section presents the analytical workflow, highlighting key queries and outputs used to derive insights into vehicle theft patterns for the New Zealand Police Department.
