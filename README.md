@@ -19,20 +19,14 @@ The goals of this analysis include:
 
 ### Analytical Questions
 - What Makes a Car a Target?
-
-Examine: Vehicle make and model, Vehicle age, Vehicle category (SUV, sedan, truck)
-
-Investigation: why certain cars stolen more often
+  - Examine: Vehicle make and model, Vehicle age, Vehicle category (SUV, sedan, truck)
+  - Investigation: why certain cars stolen more often
 - When Do Car Thieves Strike?
-
-Examine: Month trends, Weekday vs weekend, Seasonal patterns
-
-Investigation: Time-series Analysis
+  - Examine: Month trends, Weekday vs weekend, Seasonal patterns
+  - Investigation: Time-series Analysis
 - Do a Few Areas Account for Most Vehicle Theft?
-
-  Examine: Theft concentration by area; Pareto analysis (80/20 rule))
-
-  Investigation: Concentration Analysis
+  - Examine: Theft concentration by area; Pareto analysis (80/20 rule))
+  - Investigation: Concentration Analysis
 ### Scope of Analysis
 - Vehicle price/type vs theft frequency
 - Vehicle age vs theft probability
