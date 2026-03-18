@@ -9,7 +9,7 @@ This project analyzes stolen vehicle data from the New Zealand Police Department
 
 Uche Precious Onyia is the Data Analyst responsible for conducting this analysis and translating the findings into actionable insights.
 
-## Objective
+## Objectives
 The goals of this analysis include:
 - Identify key trends in stolen vehicle incidents
   - Determine which vehicle types are most frequently stolen
