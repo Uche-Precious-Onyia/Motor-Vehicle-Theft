@@ -47,7 +47,7 @@ The dataset was sourced from the New Zealand Police Department's **Vehicle of In
 - Feature engineering
 
 ## Tools & Technologies
-- Microsoft Excel (Analysis and visualization)
-- Microsoft Word (Documenting proceses)
-- Microsoft PowerPoint (Presentation)
+- Microsoft Excel (analysis and visualization)
+- Microsoft Word (documenting proceses)
+- Microsoft PowerPoint (presentation)
 ## What Makes This Analysis Special?
