@@ -47,7 +47,7 @@ The dataset was sourced from the New Zealand Police Department's **Vehicle of In
 
 ### Data Analysis and Visualization
 This section presents the analytical workflow, highlighting key queries and outputs used to derive insights into vehicle theft patterns for the New Zealand Police Department.
-#### ***1. Product category with the highest sales***
+#### ***- Product category with the highest sales***
 ```Excel
 
 ```
