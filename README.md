@@ -1,7 +1,7 @@
 ## Timing the Crime: A Data Analysis of Patterns in Motor Vehicle Theft
 This project analyzes stolen vehicle data from the New Zealand Police Department to identify patterns in vehicle theft. The goal is to uncover trends related to vehicle types, locations, and time patterns that could help inform prevention strategies.
 
-My tool for analysis is MS Excel.
+My tool employed for this analysis is MS Excel.
 ### Project Topic
 Analysis of Motor Vehicle Theft
 ### Project Overview
